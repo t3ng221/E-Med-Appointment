@@ -1,0 +1,11 @@
+select{
+  margin-top: 0rem;
+  border: none;
+  height: 4rem;
+  border-bottom:1px solid rgb(37, 1, 241);
+}
+.from-container-x{
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+  grid-gap:5px;
+}

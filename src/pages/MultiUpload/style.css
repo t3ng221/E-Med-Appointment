@@ -1,0 +1,13 @@
+.img-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 10px;
+}
+.i-container {
+  display: grid;
+  grid-template-columns: repeat(2,30rem);
+  grid-gap:10px;
+}
+.obh{
+overflow-x: hidden;
+}
